@@ -1,0 +1,35 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bunny Character -->
+  <circle cx="75" cy="85" r="50" fill="#F4EEF9" />
+
+  <!-- Ears -->
+  <path d="M40 60 Q45 20 60 45" fill="#F4EEF9" stroke="#C8B8DF" stroke-width="4" />
+  <path d="M110 60 Q105 20 90 45" fill="#F4EEF9" stroke="#C8B8DF" stroke-width="4" />
+
+  <!-- Inner Ears -->
+  <path d="M45 55 Q48 30 58 45" fill="#F9D7F0" />
+  <path d="M105 55 Q102 30 92 45" fill="#F9D7F0" />
+
+  <!-- Face -->
+  <circle cx="60" cy="75" r="5" fill="#333333" />
+  <circle cx="90" cy="75" r="5" fill="#333333" />
+
+  <!-- Nose and Mouth -->
+  <ellipse cx="75" cy="85" rx="5" ry="3" fill="#FF9EB3" />
+  <path d="M75 88 Q75 95 80 93" stroke="#333333" stroke-width="1.5" fill="none" />
+  <path d="M75 88 Q75 95 70 93" stroke="#333333" stroke-width="1.5" fill="none" />
+
+  <!-- Whiskers -->
+  <line x1="65" y1="85" x2="50" y2="80" stroke="#333333" stroke-width="1" />
+  <line x1="65" y1="87" x2="50" y2="87" stroke="#333333" stroke-width="1" />
+  <line x1="65" y1="89" x2="50" y2="94" stroke="#333333" stroke-width="1" />
+
+  <line x1="85" y1="85" x2="100" y2="80" stroke="#333333" stroke-width="1" />
+  <line x1="85" y1="87" x2="100" y2="87" stroke="#333333" stroke-width="1" />
+  <line x1="85" y1="89" x2="100" y2="94" stroke="#333333" stroke-width="1" />
+
+  <!-- Book -->
+  <rect x="45" y="110" width="60" height="10" rx="2" fill="#6799c6" />
+  <rect x="45" y="110" width="30" height="10" rx="2" fill="#9a5a8e" />
+  <line x1="75" y1="110" x2="75" y2="120" stroke="#333333" stroke-width="1" />
+</svg>
